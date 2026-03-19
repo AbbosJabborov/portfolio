@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://abbosjabborov.github.io/portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -16,7 +17,6 @@
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
-  "homepage": "https://abbosjabborov.github.io/portfolio",
   "devDependencies": {
     "@eslint/js": "^9.39.4",
     "@types/react": "^19.2.14",
